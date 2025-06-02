@@ -17,7 +17,7 @@ Currently available:
 The components can be either imported all together as a dependency or per component itself.
 
 ## Method 1: Adding the project dependency
-- [Download and unzip the UDB_Components.cylib.zip](https://github.com/onethinx/PSOC6_UDB_Components/raw/refs/heads/master/PSoC6_UDB_Components.cylib.zip))
+- [Download and unzip the UDB_Components.cylib.zip](https://github.com/onethinx/PSOC6_UDB_Components/raw/refs/heads/master/PSoC6_UDB_Components.cylib.zip)
 - Add the dependency reference to the cyprj project file:
 ![Creator_Import_Component](https://github.com/onethinx/Readme_assets/blob/main/UDB-import-project.png?raw=true)
 
