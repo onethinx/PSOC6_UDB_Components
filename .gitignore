@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep:
+!README.md
+!LICENSE
+!*.cycomp
+!*.zip
